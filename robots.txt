@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://egaichaeto.ketejun.com/sitemap.xml
